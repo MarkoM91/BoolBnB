@@ -82,8 +82,7 @@
       $(this).text('Sì');
     }
   });
-
-
+    
 
 
   // Inizio Funzioni tomtom

@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "46cea1e81df93c0fa52bd5674f47d626",
+    "content-hash": "0bbf2f2b631fe3d46fef9a5e6f6b5441",
     "packages": [
         {
             "name": "braintree/braintree_php",
-            "version": "4.1.0",
+            "version": "4.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/braintree/braintree_php.git",
-                "reference": "486d1326854410bf045bb0e2d28e401936de7712"
+                "reference": "04b3f9e24dd375b5ddccb008439faba7ff8ab459"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/braintree/braintree_php/zipball/486d1326854410bf045bb0e2d28e401936de7712",
-                "reference": "486d1326854410bf045bb0e2d28e401936de7712",
+                "url": "https://api.github.com/repos/braintree/braintree_php/zipball/04b3f9e24dd375b5ddccb008439faba7ff8ab459",
+                "reference": "04b3f9e24dd375b5ddccb008439faba7ff8ab459",
                 "shasum": ""
             },
             "require": {
@@ -51,7 +51,7 @@
                 }
             ],
             "description": "Braintree PHP Client Library",
-            "time": "2019-05-21T15:52:11+00:00"
+            "time": "2019-06-27T17:12:48+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",

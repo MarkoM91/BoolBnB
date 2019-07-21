@@ -5,7 +5,6 @@
     <div class="container dashB">
       <h2>Inserisci un nuovo appartamento</h2>
       <p>compila i seguenti campi, inserendo una tua proprietà da mettere in affitto. Inizia a guadagnare da oggi!</p>
-
       <div class="boxForm">
         <form action="{{ route('store.new.apart') }}" method="post" enctype="multipart/form-data">
           @csrf
